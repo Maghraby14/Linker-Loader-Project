@@ -20,8 +20,9 @@ The `linking.py` script implements a linking loader. Similar to `absolute.py`, i
    ```bash
    git clone https://github.com/yourusername/linker_loader.git
 3. Navigate to the cloned directory:
-    ```bash
+```bash
   cd linker_loader
+  ```
 4. Place your HTE input file in the repository directory.
  ```bash
         python absolute.py input.txt
