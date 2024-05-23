@@ -17,20 +17,20 @@ The `linking.py` script implements a linking loader. Similar to `absolute.py`, i
 1. Ensure you have Python installed on your system.
 
 2. Clone this repository:
-   ```bash
+```bash
    git clone https://github.com/yourusername/linker_loader.git
+```
 3. Navigate to the cloned directory:
 ```bash
   cd linker_loader
-  ```
+```
 4. Place your HTE input file in the repository directory.
  ```bash
-        python absolute.py input.txt
+   python absolute.py input.txt
 ```
- ```bash
+```bash
    python linking.py input.txt
 ```
-
 5. Run the desired loader script with the input file:
 6. The loader script will generate the output of the loader process.
 
